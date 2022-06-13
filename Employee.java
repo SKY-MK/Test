@@ -10,7 +10,10 @@ public final class Employee {
         this.name = name;
         }
 
-
+   public Employee2(Integer id, List<String> name){
+        this.id = id;
+        this.name = name;
+        }
 }
 
 
