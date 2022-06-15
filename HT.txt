@@ -1,0 +1,74 @@
+-- git push on remote directory
+
+git remote add origin https://github.com/SKY-MK/Test.git
+git branch -M main
+git push -u origin main
+
+-- git pull from remote directory
+$ git pull origin other-branch
+
+git pull {repo} {remotebranchname}:{localbranchname}
+
+git pull origin xyz:xyz
+
+// best way to pull the data from remote in git
+git checkout -b <new_branch> <remote repo name>/<new_branch>
+
+
+// Git merge commands
+
+git checkout main
+git merge jeff/feature1
+
+// create a brach 
+git branch dev
+
+// create branch with checkout 
+git checkout -b shashikant
+
+
+
+
+
+
+
+ 
+
+
+
+
+Username: shashikant.yadav@sofritek.com
+Temporary password: 3Dk$6U_6cu
+Bookmark your sign-in address: http://email.sofritek.com
+
+
+
+understanding the RBAC(Read base access control model) modle and Security model sql file, amd understanding the bitBucket repository, also i am understanding the elastic search, 
+
+-- Deployment.
+
+
+
+
+git config global user.name 
+git congit --global email ""
+
+-- show your user name and eamil
+git config user.name
+git config user.password
+
+
+see Previous  commit
+git commit -m "(Meaningful message)-- for future"
+
+git log --  we get the hashcode 
+and from the hashcode you can go to the previous stage 
+
+
+
+git checkout master -- get all the files 
+
+
+
+
+
