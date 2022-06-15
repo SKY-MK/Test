@@ -14,6 +14,11 @@ public final class Employee {
         this.id = id;
         this.name = name;
         }
+
+  public Employee3(Integer id, List<String> name){
+        this.id = id;
+        this.name = name;
+        }
 }
 
 
